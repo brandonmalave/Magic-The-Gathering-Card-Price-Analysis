@@ -1,4 +1,4 @@
-# Analysis of Magic: The Gathering card prices
+# Analysis of Magic: The Gathering Card Prices
 
 This repository contains data, analytic code, and findings that support my arts and culture based capstone project regarding the proliferation of gambling like profit models in spaces that teenagers and children occupy.
 
